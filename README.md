@@ -9,11 +9,11 @@ The string received as parameter will always be valid (no syntax errors, no divi
 
 The following five operators must be supported:
   
-    • ‘+’ for addition,
-    • ‘-’ for subtraction,
-    • ‘/’ for division,
-    • ’*’ for multiplication,
-    • ‘%’ for modulo.
+    • ‘+’ for addition
+    • ‘-’ for subtraction
+    • ‘/’ for division
+    • ’*’ for multiplication
+    • ‘%’ for modulo
 
 The function must also handle any number of parenthesis.
 
